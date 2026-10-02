@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Kadiri Hamzat
 
-<!--
-**kadirihamzat14-oss/kadirihamzat14-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer from Lagos, Nigeria 🇳🇬**
 
-Here are some ideas to get you started:
+🚀 Building my first websites with HTML, CSS & JavaScript
+🌱 Currently learning JavaScript and Frontend Development
+💼 Open to small freelance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 My Portfolio
+👉 https://kadirihamzat14-oss.github.io/my-first-website/
+
+### 🛠️ Skills
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (learning)
+- Git & GitHub
+
+### 📫 Connect with me
+- WhatsApp: Available for projects
+- Location: Lagos, Nigeria
+
+⭐ From zero to live website in 1 day!
